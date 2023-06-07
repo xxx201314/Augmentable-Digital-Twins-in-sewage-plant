@@ -1,0 +1,2 @@
+count,mse,rmse,mae,mape,r2,r2_adjusted,rmsle,learning_rate,batch_size,epoch,weight_decay,use_more_gpu,device,feature_size,num_layers,dropout
+1,0.10435189576728521,0.32303544041991,0.27217278903125963,inf,-0.33220066875790866,-0.4515022211839901,0.22897058313139135,0.001_1e-06_1e-08,512,20000,0.001,False,0,6,1,0.5
